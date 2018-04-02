@@ -1,0 +1,14 @@
+.contact{
+	border: 1px solid black;
+}
+.menu{
+	border: 1px solid black;
+	text-transform: uppercase;
+}
+.menu li{
+	list-style-type: none;
+	display: inline;
+	font-weight: bold;
+	margin-left: 15px;
+	font-size: 12px;
+}
